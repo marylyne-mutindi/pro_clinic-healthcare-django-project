@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'clinic',  # Custom app for the clinic
 ]
 
 MIDDLEWARE = [
